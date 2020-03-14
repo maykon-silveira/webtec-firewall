@@ -7,8 +7,8 @@ Poderá utilizar em seu site wordpress ou site em php puro!
 Parte 1 no inicio do seu código php:
 
 /**
- * <b> WEBTEC FIREWALL 2018 </b>
- * Atualizado dia 18/01/2018 por Maykon Silveira
+ * <b> WEBTEC FIREWALL 2020 </b>
+ * Atualizado dia 14/03/2020 por Maykon Silveira
  * Criado dia 18/01/2018 por Maykon Silveira - webtecpr.com.br
  * 2018, Maykon Silveira - WEBTEC TECHNOLOGIES
  * Site oficial www.webtecpr.com.br Empresa Brasileira de Programação.
