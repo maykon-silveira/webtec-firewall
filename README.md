@@ -9,14 +9,14 @@ Parte 1 no inicio do seu código php:
 /**
  * <b> WEBTEC FIREWALL 2020 </b>
  * Atualizado dia 14/03/2020 por Maykon Silveira
- * Criado dia 18/01/2018 por Maykon Silveira - webtecpr.com.br
- * 2018, Maykon Silveira - WEBTEC TECHNOLOGIES
- * Site oficial www.webtecpr.com.br Empresa Brasileira de Programação.
- * CRIADO DIA 18/01/2018 POR MAYKON SILVEIRA WEBTECTECHNOLOGIES.COM.BR E MAYKONSILVEIRA.COM.BR
- * Versão 2.0
+ * Criado dia 18/01/2018 por Maykon Silveira - maykonsilveira.com.br
+ * 2020, Maykon Silveira - WEBTEC TECHNOLOGIES
+ * Site oficial www.maykonsilveira.com.br Cursos online.
+ * CRIADO DIA 18/01/2018 POR MAYKON SILVEIRA maykonsilveira.com.br
+ * Versão 2.1
  */
 
-//PARTE 1 - INICIO DO WEBTEC FIREWALL CRIADO DIA 18/01/2018 POR MAYKON SILVEIRA WEBTECTECHNOLOGIES.COM.BR E MAYKONSILVEIRA.COM.BR
+//PARTE 1 - INICIO DO WEBTEC FIREWALL CRIADO DIA 14/03/2020 POR MAYKON SILVEIRA maykonsilveira.com.br
             
                 $maykonIp = $_SERVER['REMOTE_ADDR'];
                 $maykonEmail = "cursos@maykonsilveira.com.br";
@@ -89,13 +89,13 @@ Parte 1 no inicio do seu código php:
 
                 ){
 
-// FINAL DA PARTE 1 - DO PRIMEIRO IF DO WEBTEC FIREWALL CRIADO DIA 18/01/2018 POR MAYKON SILVEIRA WEBTECTECHNOLOGIES.COM.BR E MAYKONSILVEIRA.COM.BR
+// FINAL DA PARTE 1 - DO PRIMEIRO IF DO WEBTEC FIREWALL CRIADO DIA 14/03/2020 POR MAYKON SILVEIRA maykonsilveira.com.br
                     
 //AQUI O CÓDIGO QUE DESEJA PROTEGER  
 
 Parte 2 no final do código:
 
-//PARTE 2 NO FINAL DO WEBTEC FIREWALL CRIADO DIA 18/01/2018 POR MAYKON SILVEIRA WEBTECTECHNOLOGIES.COM.BR E MAYKONSILVEIRA.COM.BR
+//PARTE 2 NO FINAL DO WEBTEC FIREWALL CRIADO DIA 14/03/2020 POR MAYKON SILVEIRA maykonsilveira.com.br
  }else{
 
 $ipd = $maykonIp;
@@ -225,7 +225,7 @@ if(
 
 Criado por Maykon Silveira
 
-Qual é a função do script em php versão 2.0? 
+Qual é a função do script em php versão 2.1? 
 É bloquear o acesso de IP internacionais ao arquivo que você desejar adicionar este código. 
 
 Poderá adicionar em seu Wordpress nos seguintes arquivos: 
