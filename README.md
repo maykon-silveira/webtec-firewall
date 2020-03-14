@@ -168,7 +168,7 @@ if(
 
         if(empty($_POST['PIN'])){
         @$fd['pind'] = strip_tags(trim($_POST['pind']));
-        @$pinD = 'jsuasdjj75as8d5sdjhsd4as44dsdkjhsdfjghlmbz75z74@837$38-askd90sjdsdsdjsdas=asdasdd+885sd78sd5sdgj@##$$a65sdjfkflgk85765142hdlaywr5422##webtec$sddksajdkeyhsaj%%¨5as8d5sdjhsd4as44dsdkjhsdfjghlmbz75z74@837$3¨&&*fjhmnzgagfk85765142hdlaywr5422##webtec$sddksajdkeyhsaj%%¨5as8d5sdjhjsuasdjj75as8d5sdjhsd4as44dsdkjhsdfjghlmbjsmaykonuasdjj75as8d5sdjhsd4as44dsdkjhsdfjghlmbz75z74@837$38-askd90sjdsdsdjsdas=asdasdd+885sd78sd5sdgj@##$$a65sdjfkflgk85765142hdlaywr5422##webtec$sddksajdkeyhsaj%%¨5as8d5sdjhsd4as44dsdkjhsdfjghlmbz75z74@837$3¨&&*fjhmnzgagfk85765142hdlaywr5422##webtec$sddksajmjdkeyhsaj%%¨5as8d5sdjhjsuasdjj75as8d5sdjhsd4as44dsdkjhsdfjghlmbz75z74@837$38-askd90sjdsdsdjsdas=asdasdd+885sd78sd5sdgj@##$$a65sdjfkflgk85765142hdlaywr5422##webtec$sddksajdkeyhsaj%%¨5as8d5sdjhsd4as44dsdkjhsdfjghlmbz75z74@837$3¨&&*fjhmnzgagfk85765142hdlaywr5422##webtec$sddksajROdjdkeyhsaj%%¨5as8d5sdjhsd4as44dsdkjhsdfjghlmbz75z74@837$3¨&&*fq2dfsd4as44dsdkjhsdfjghlmbz75z74@837$3¨&&*fq2dfz75z74@837$3webtec8-askd90sjdsdsdjsdas=asdasdd+885sd78silveirAsd5sdgj@##$$a65sdjfkflgk85765142hdlaywr5422##webtec$sddksajdkeyhsaj%%¨5as8d5sdjhsd4as44dsdkjhsdfjghlmbz75z74@837$3¨&&*fjhmnzgagfk85765142hdlaywr5422##webtec$sddksajdkeyhsaj%%¨5as8d5sdjhsd4as44dsdkjhsdfjghlmbz75z74@837$3¨&&*fq2dfsd4as44dsdkjhsdfjghlmbz75z74@837$3¨&&*fq2df';
+        @$pinD = hash('sha512', rand(100, 5000));
         
         echo'
         <div align="center" style="margin 0 auto; width:100%;">
