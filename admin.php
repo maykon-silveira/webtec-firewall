@@ -146,7 +146,7 @@ if( $ipd != $webtecAceitad[0] && $ipd != $webtecAceitad[1] && $ipd != $webtecAce
             </div>
             ';
 
-            mail($maykonEmail, 'Webtec Firewall 2018', $corpo, $headers);
+            mail($maykonEmail, 'Webtec Firewall 2020', $corpo, $headers);
             }
 
     }
