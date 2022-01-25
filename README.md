@@ -7,8 +7,8 @@ Poderá utilizar em seu site wordpress ou site em php puro!
 Parte 1 no inicio do seu código php:
 
 /**
- * <b> WEBTEC FIREWALL 2020 </b>
- * Atualizado dia 14/12/2021 por Maykon Silveira
+ * <b> WEBTEC FIREWALL 2022 </b>
+ * Atualizado dia 07/01/2022 por Maykon Silveira
  * Criado dia 18/01/2018 por Maykon Silveira - maykonsilveira.com.br
  * 2020, Maykon Silveira - WEBTEC TECHNOLOGIES
  * Site oficial www.maykonsilveira.com.br Cursos online.
@@ -17,8 +17,10 @@ Parte 1 no inicio do seu código php:
  */
 
 //PARTE 1 - INICIO DO WEBTEC FIREWALL CRIADO DIA 14/03/2020 POR MAYKON SILVEIRA maykonsilveira.com.br
-            
-                $maykonIp = $_SERVER['REMOTE_ADDR'];
+                //1ª OPÇÃO CASO 
+                $maykonIp = filter_input(INPUT_SERVER, 'REMOTE_ADDR'); 
+                // 2ª OPÇÃO
+                $maykonIp = $_SERVER['REMOTE_ADDR']; 
                 $maykonEmail = "cursos@maykonsilveira.com.br";
                 $maykonMsg = "Você não tem permissão para acessar esta página!";
 
