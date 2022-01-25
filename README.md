@@ -8,7 +8,7 @@ Parte 1 no inicio do seu código php:
 
 /**
  * <b> WEBTEC FIREWALL 2020 </b>
- * Atualizado dia 14/03/2020 por Maykon Silveira
+ * Atualizado dia 14/12/2021 por Maykon Silveira
  * Criado dia 18/01/2018 por Maykon Silveira - maykonsilveira.com.br
  * 2020, Maykon Silveira - WEBTEC TECHNOLOGIES
  * Site oficial www.maykonsilveira.com.br Cursos online.
