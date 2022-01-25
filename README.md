@@ -10,7 +10,7 @@ Parte 1 no inicio do seu código php:
  * <b> WEBTEC FIREWALL 2022 </b>
  * Atualizado dia 25/01/2022 por Maykon Silveira
  * Criado dia 18/01/2018 por Maykon Silveira - maykonsilveira.com.br
- * 2020, Maykon Silveira - WEBTEC TECHNOLOGIES
+ * 2022, Maykon Silveira - WEBTEC TECHNOLOGIES
  * Site oficial www.maykonsilveira.com.br Cursos online.
  * CRIADO DIA 18/01/2018 POR MAYKON SILVEIRA maykonsilveira.com.br
  * Versão 2.1
