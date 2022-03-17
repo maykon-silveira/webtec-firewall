@@ -228,7 +228,7 @@ if(
 }
 
 
-
+/**
 
 Criado por Maykon Silveira
 
@@ -241,4 +241,4 @@ wp-login.php;
 wp-admin/admin.php;
 wp-admin/async-upload.php;
 
-Poderá proteger sites em php adicionando ho header do admin e no login do mesmo. 
+Poderá proteger sites em php adicionando ho header do admin e no login do mesmo. */
