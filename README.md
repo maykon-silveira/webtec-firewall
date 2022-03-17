@@ -19,7 +19,9 @@ Parte 1 no inicio do seu código php:
 //PARTE 1 - INICIO DO WEBTEC FIREWALL CRIADO DIA 14/03/2020 POR MAYKON SILVEIRA maykonsilveira.com.br
                 //1ª OPÇÃO CASO 
                // $maykonIp = filter_input(INPUT_SERVER, 'REMOTE_ADDR'); 
-                // 2ª OPÇÃO
+                
+                
+                //2ª OPÇÃO
                 $maykonIp = $_SERVER['REMOTE_ADDR']; 
                 $maykonEmail = "cursos@maykonsilveira.com.br";
                 $maykonMsg = "Você não tem permissão para acessar esta página!";
